@@ -1,0 +1,168 @@
+.card{
+    margin-top:20px !important;
+    margin: 0 10px 0 10px;
+}
+body {
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+    height: 100vh;
+}
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+ 
+    50% {
+        background-position: 100% 50%;
+    }
+ 
+    100% {
+        background-position: 0% 50%;
+    }
+}
+h1{
+    text-align: center;
+
+
+
+}
+.container{
+    width: 100%;
+}
+#myCarousel {
+    width: 100%;
+}
+.carousel-control {
+    margin-top: 20px;
+   
+}
+.carousel-inner {
+    width: 100%;
+    height: 800px;
+}
+.ad1 {
+    width: 100%;
+    height: 800px;
+    background: url(./nkar/6.jpg) no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+
+}
+.ad2 {
+    width: 100%;
+    height: 800px;
+    background: url(./nkar/7.jpg) no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+.ad3 {
+    width: 100%;
+    height: 800px;
+    background: url(./nkar/8.jpg) no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+
+}
+.ad4{
+    width: 100%;
+    height: 800px;
+    background: url(./nkar/22.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+.ad5{
+    width: 100%;
+    height: 800px;
+    background: url(./nkar/28.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+.ad9{
+    width: 100%;
+    height: 800px;
+    background: url(./nkar/27.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+
+.city{
+    text-align: center;
+    color: #f0f0f0;
+}
+.city1{
+    text-align: center;
+    color: #f0f0f0;
+}
+.city3{
+    text-align: center;
+    color:#f0f0f0 ;
+
+}
+.city4{
+    text-align: center;
+    color: #f0f0f0;
+}
+.carousel-inner{
+    margin-top: 100px;
+    
+}
+h1 { color: #d54d7b; font-family: "Great Vibes", cursive; font-size: 165px; line-height: 160px; font-weight: normal; margin-bottom: 0px; margin-top: 40px; text-align: center; text-shadow: 0 1px 1px #fff; }
+
+
+p { color: #7a7c7f; font-size: 29px; font-family: "Libre Baskerville", serif; line-height: 45px; text-align: center; text-shadow: 0 1px 1px #fff; padding-top: 20px; }
+
+
+p.byline { font-style: italic; color: #B6B6B6; font-size: 24px; margin-top: 20px; text-align: center; text-shadow: 0 1px 1px #fff; }
+
+
+
+
+.card1{
+    text-align: center;
+
+}
+.btn1{
+ margin-top: 80px;
+}
+.btn2{
+ margin-top: 125px;
+
+}
+.btn3{
+
+ margin-top: 125px;
+}
+.btn4{
+ margin-top: -10px;
+}
+
+
+.btn0 { 
+                 display: inline-block;
+                outline: 0;
+                cursor: pointer;
+                border: none;
+                padding: 0 56px;
+                height: 45px;
+                line-height: 45px;
+                border-radius: 7px;
+                background-color: #0070f3;
+                color: white;
+                font-weight: 400;
+                font-size: 16px;
+                box-shadow: 0 4px 14px 0 rgb(0 118 255 / 39%);
+                transition: background 0.2s ease,color 0.2s ease,box-shadow 0.2s ease;
+                :hover{
+                    background: rgba(0,118,255,0.9);
+                    box-shadow: 0 6px 20px rgb(0 118 255 / 23%);
+                }
+        }              
